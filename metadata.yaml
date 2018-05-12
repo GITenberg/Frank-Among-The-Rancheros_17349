@@ -1,0 +1,31 @@
+_repo: Frank-Among-The-Rancheros_17349
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 17349-h/images/cover01a.jpg
+creator:
+  author:
+    agent_name: Castlemon, Harry
+    aliases:
+    - Fosdick, Charles Austin
+    - Castlemon, Henry
+    birthdate: 1842
+    deathdate: 1915
+    gutenberg_agent_id: '2274'
+    url: http://www.gutenberg.org/2009/agents/2274
+description: Frank heads west for his next adventure.
+gutenberg_issued: '2005-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17349'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'California, Southern -- Juvenile fiction'
+- !lcsh 'Peasants -- Mexico -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Ranchers -- Juvenile fiction'
+title: Frank among the Rancheros
+url: http://www.gutenberg.org/ebooks/17349
